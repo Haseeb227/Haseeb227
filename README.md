@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haseebuddin</h1>
 <h3 align="center">A passionate Data Science enthusiast </h3>
 
-- 🔭 I’m currently working on [Zomato Restaurant Clustering and Sentiment Analysis](https://github.com/Haseeb227/Zomato-Restaurant-Clustering-and-Sentiment-Analysis-)
-
-- 👯 I’m looking to collaborate on **Deep Learning - Andrew Ng, MLOps**
-
-- 🤝 I’m looking for help with **Deep Learning concepts**
+- 👯 I’m looking to collaborate on **Deep Learning**
 
 - 📫 How to reach me **haseebuddin227@gmail.com**
 
